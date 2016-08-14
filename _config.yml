@@ -1,4 +1,3 @@
-layout_spectrum: 0.540918430313468
 typography_spectrum: 0.7446249320637435
 color:
   brandStrength: 0.532878044527024
@@ -11,4 +10,7 @@ color:
     - '#4E7AC7'
     - '#7FB2F0'
     - '#ADD5F7'
+layout_spectrum: 0.540918430313468
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7bb70ae-b0ae-454e-9bf4-8f878e91c71c.jpg
 name: Gate to Gate with Jason Matthews
