@@ -1,0 +1,14 @@
+layout_spectrum: 0.540918430313468
+typography_spectrum: 0.7446249320637435
+color:
+  brandStrength: 0.532878044527024
+  lightness: 0.8046466433443129
+  saturation: 0.8368815805297345
+  rhythmicContrast: 0.9565712255425751
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Gate to Gate
